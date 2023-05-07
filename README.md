@@ -8,5 +8,5 @@ Stand one block away and aim in the center of the direction you want to go
 ![stand one block away](https://user-images.githubusercontent.com/84251009/236680948-0d507185-0b1d-4e45-a52b-349337adcce8.png)
 
 And turn on the script(video from enzogostadebolo's instagram)
-![let it go](https://user-images.githubusercontent.com/84251009/236681017-daf73ab5-a54b-424c-9b39-3a43c688bea9.mp4)
+![minebot](https://user-images.githubusercontent.com/84251009/236681754-19c8178f-5d23-458c-8441-657fbf132daf.gif)
 
